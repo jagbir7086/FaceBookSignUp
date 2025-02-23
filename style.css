@@ -1,0 +1,191 @@
+*   {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body, html{
+    height: 100%;
+    width: 100%;
+}
+.section{
+    height: 150vh;
+    width: 100%;
+    background-color: #f0f2f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    height: 120vh;
+    width: 400px;
+    background-color: white;
+   margin-top: 50px;
+   border-radius: 10px;
+}
+.section h1{
+    font-size: 65px;
+    font-weight: 700;
+    color: #0866ff;
+    text-align: center;
+    position: absolute;
+    top: 10px;
+}
+.box1{
+    height: 15vh;
+    width: 100%;  
+}
+.box1 h2{
+    text-align: center;
+    padding-top: 5px;
+    font-size: 30px;
+    font-weight: 800;
+    word-spacing: 3px;
+}
+.box1 h4{
+    text-align: center;
+    padding-top: 5px;
+    font-size: 20px;
+    font-weight: 400;
+    color: grey;
+}
+.box2{
+    height: 10vh;
+    width: 100%;  
+}
+.box2 input{
+    height: 40px;
+    width: 180px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
+}
+.box3{
+    height: 10vh;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.box3 input{
+    height: 40px;
+    width: 120px;
+    margin: 3px;
+    padding: 5px;
+}
+.box3_1 h4{
+    font-weight: 400;
+    padding-right: 290px;
+    color: grey;
+}
+.box4{
+    height: 12vh;
+    width: 100%; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.box4 input{
+    height: 40px;
+    width: 120px;
+    margin: 5px;
+    padding: 5px;
+}
+.box4_1 h4{
+    font-weight: 400;
+    padding-right: 330px;
+    color: grey;
+}
+.box5{
+    height: 12vh;
+    width: 100%;  
+}
+.box5 input{
+    height: 40px;
+    width: 380px;
+    margin: 10px;
+    padding: 5px;
+}
+.box5 h4{
+    padding-left: 10px;
+    color: grey;
+    font-weight: 400;
+}
+.box6{
+    height: 10vh;
+    width: 100%;  
+}
+.box6 input{
+    height: 40px;
+    width: 380px;
+    margin: 10px;
+    padding: 5px;
+}
+.box7{
+    height: 10vh;
+    width: 100%;  
+}
+.box7 input{
+    height: 40px;
+    width: 380px;
+    margin: 10px;
+    padding: 5px;
+}
+.box8{
+    height: 10vh;
+    width: 100%;  
+}
+.box8 input{
+    height: 40px;
+    width: 380px;
+    margin: 10px;
+    padding: 5px;
+}
+.box9{
+    height: 10vh;
+    width: 100%;  
+}
+.box9 p{
+    padding: 20px;
+    font-size: 14px;
+}
+.box10{
+    height: 10vh;
+    width: 100%;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box10 button{
+    height: 40px;
+    width: 220px;
+    border-radius: 10px;
+    border: 1px #00a400;
+    background-color: #00a400;
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+}
+.box11{
+    height: 10vh;
+    width: 100%;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box11 h3{
+    color: rgb(66, 193, 244);
+}
+footer{
+    height: 5vh;
+    width: 100%;
+    background-color: #0866ff;
+}
+footer h4{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
